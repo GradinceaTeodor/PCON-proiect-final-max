@@ -1,4 +1,4 @@
-# (Sintetizator Polifonic cu Elementede Compoziție Generativă în Plug Data)
+# Sintetizator Polifonic cu Elementede Compoziție Generativă în Plug Data
 (Proiectare și implementare a unui sintetizator polifonic interactiv realizat în PlugData)
 
 ## (Instalare)
